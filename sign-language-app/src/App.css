@@ -1,0 +1,5 @@
+/* App-specific overrides (keep minimal; main styles in index.css) */
+
+.app-container {
+  /* Legacy class; layout now in .app */
+}
