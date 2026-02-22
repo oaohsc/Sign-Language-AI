@@ -4,7 +4,7 @@ This project introduces an innovative AI-driven system designed to bridge commun
 
 #  GestureAI — Sign Language Recognition System
 
-<img width="1024" height="600" alt="Image" src="https://github.com/user-attachments/assets/09d41b35-21ff-4f65-87c3-bcf8674497a1" />
+<img width="1024" height="600" alt="Image" src="https://github.com/user-attachments/assets/440df482-b2f7-4a4c-b184-08867cd93f2c" />
 GestureAI is a real-time sign language detection and translation system that uses computer vision and hand tracking to recognize gestures from a webcam and convert them into text and speech.
 
 The system supports both **English and Arabic sign language**, allowing users to detect individual letters or whole words and build sentences interactively.
@@ -90,4 +90,5 @@ This project aims to improve accessibility by providing an AI-powered communicat
 ##  Author 
 
 Developed as part of an AI / Computer Vision project in King Faisal University.
+
 
