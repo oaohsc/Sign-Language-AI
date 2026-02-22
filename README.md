@@ -3,6 +3,7 @@
 This project introduces an innovative AI-driven system designed to bridge communication gaps for the hearing-impaired. By leveraging high-speed computer vision and hand-tracking technology, the application translates manual signs into readable text and synthesized speech in real-time.
 
 #  GestureAI — Sign Language Recognition System
+
 <img width="1024" height="600" alt="Image" src="https://github.com/user-attachments/assets/09d41b35-21ff-4f65-87c3-bcf8674497a1" />
 GestureAI is a real-time sign language detection and translation system that uses computer vision and hand tracking to recognize gestures from a webcam and convert them into text and speech.
 
@@ -89,3 +90,4 @@ This project aims to improve accessibility by providing an AI-powered communicat
 ##  Author 
 
 Developed as part of an AI / Computer Vision project in King Faisal University.
+
